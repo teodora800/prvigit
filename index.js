@@ -212,3 +212,4 @@ let superBlog = korisnici =>{
 }
 superBlog(korisnici);
 console.log("Test poruka");
+console.log("druga poruka");
