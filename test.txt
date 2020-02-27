@@ -1,1 +1,0 @@
-ovo je test fajl koji treba da se pojavi kada uradimo pull komandu.
