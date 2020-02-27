@@ -211,3 +211,4 @@ let superBlog = korisnici =>{
     });
 }
 superBlog(korisnici);
+console.log("Test poruka");
